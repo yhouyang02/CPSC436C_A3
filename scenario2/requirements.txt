@@ -1,4 +1,0 @@
-pickle
-numpy
-tensorflow
-boto3
